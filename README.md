@@ -1,11 +1,11 @@
 <div align="center" style="
   background: linear-gradient(135deg, #1f1f1f, #3a0f2e);
-  padding: 40px 20px;
-  border-radius: 12px;
+  padding: 42px 20px;
+  border-radius: 14px;
   color: #ffffff;
 ">
 
-  <h1 style="margin-bottom: 10px;">
+  <h1 style="margin-bottom: 8px;">
     miro's GitHub
   </h1>
 
@@ -20,6 +20,12 @@
   </p>
 
 </div>
+
+<br/>
+
+<p align="center">
+  backend · full-stack oriented
+</p>
 
 ---
 
