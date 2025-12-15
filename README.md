@@ -32,22 +32,18 @@
 
 ### Design
 <p>
-  <span style="
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 6px 10px;
-    background-color: #000000;
-    color: #ffffff;
-    font-size: 13px;
-    font-weight: 600;
-    border-radius: 4px;
-  ">
-    <img src="https://github.com/user-attachments/assets/290c4c69-a06a-4af7-a03b-4912a7eb051b"
-         alt="Photoshop"
-         height="16" />
-    Photoshop
-  </span>
+  <svg height="28" viewBox="0 0 120 28" xmlns="http://www.w3.org/2000/svg">
+    <rect width="120" height="28" rx="4" fill="#000000"/>
+    <image href="https://github.com/user-attachments/assets/290c4c69-a06a-4af7-a03b-4912a7eb051b"
+           x="8" y="6" height="16" width="16"/>
+    <text x="32" y="19"
+          fill="#ffffff"
+          font-size="12"
+          font-weight="600"
+          font-family="Arial, Helvetica, sans-serif">
+      Photoshop
+    </text>
+  </svg>
 </p>
 
 ### Backend
@@ -77,3 +73,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=miro-oss&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miro-oss&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
+
