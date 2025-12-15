@@ -17,7 +17,7 @@
 ## ✨ Tech Stack ✨
 
 ### Languages
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -26,32 +26,32 @@
 </p>
 
 ### Frontend
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React-ff4d8d?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 ### Design
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-ff0033?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
 </p>
 
 ### Backend
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Spring%20Boot-ff4d8d?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ### DB
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-ff4d8d?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-ff4d8d?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-ff4d8d?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-ff4d8d?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-ff4d8d?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-ff4d8d?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
