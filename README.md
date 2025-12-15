@@ -32,26 +32,7 @@
 
 ### Design
 <p>
-  <svg height="28" viewBox="0 0 128 28" xmlns="http://www.w3.org/2000/svg">
-    <rect width="128" height="28" rx="4" fill="#000000"/>
-    <image
-      href="https://raw.githubusercontent.com/miro-oss/miro-oss/main/free-icon-adobe-photoshop-121140.png"
-      x="8"
-      y="6"
-      width="16"
-      height="16"
-    />
-    <text
-      x="30"
-      y="19"
-      fill="#ffffff"
-      font-size="12"
-      font-weight="700"
-      font-family="Arial, Helvetica, sans-serif"
-    >
-      Photoshop
-    </text>
-  </svg>
+  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge"/>
 </p>
 
 ### Backend
