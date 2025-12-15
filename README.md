@@ -32,10 +32,22 @@
 
 ### Design
 <p>
-  <img src="https://github.com/user-attachments/assets/290c4c69-a06a-4af7-a03b-4912a7eb051b"
-       alt="Photoshop"
-       height="28"
-       style="vertical-align: middle;" />
+  <span style="
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 10px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 4px;
+  ">
+    <img src="https://github.com/user-attachments/assets/290c4c69-a06a-4af7-a03b-4912a7eb051b"
+         alt="Photoshop"
+         height="16" />
+    Photoshop
+  </span>
 </p>
 
 ### Backend
