@@ -32,14 +32,14 @@
 
 ### Design
 <p>
-  <svg height="28" viewBox="0 0 120 28" xmlns="http://www.w3.org/2000/svg">
-    <rect width="120" height="28" rx="4" fill="#000000"/>
-    <image href="https://github.com/user-attachments/assets/290c4c69-a06a-4af7-a03b-4912a7eb051b"
-           x="8" y="6" height="16" width="16"/>
-    <text x="32" y="19"
+  <svg height="28" viewBox="0 0 128 28" xmlns="http://www.w3.org/2000/svg">
+    <rect width="128" height="28" rx="4" fill="#000000"/>
+    <image href="https://github.com/user-attachments/assets/bbce45e3-9094-4c7f-991a-ed1c046d492a"
+           x="8" y="6" width="16" height="16"/>
+    <text x="30" y="19"
           fill="#ffffff"
           font-size="12"
-          font-weight="600"
+          font-weight="700"
           font-family="Arial, Helvetica, sans-serif">
       Photoshop
     </text>
