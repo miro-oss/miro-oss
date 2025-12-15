@@ -53,8 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miro-oss&layout=compact&theme=radical&hide_border=true" height="130"/>
 </p>
 
----
-
-<p align="center">
-  <i>quiet, sharp, and consistent.</i> 😈
-</p>
