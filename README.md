@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3a0f2e&height=180&section=header&text=miro's%20GitHub&fontSize=36&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff4d8d&height=180&section=header&text=miro's%20GitHub&fontSize=36&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:tldms822@naver.com">
-    <img src="https://img.shields.io/badge/Email-tldms822@naver.com-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
