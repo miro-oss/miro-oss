@@ -34,13 +34,21 @@
 <p>
   <svg height="28" viewBox="0 0 128 28" xmlns="http://www.w3.org/2000/svg">
     <rect width="128" height="28" rx="4" fill="#000000"/>
-    <image href="https://github.com/user-attachments/assets/bbce45e3-9094-4c7f-991a-ed1c046d492a"
-           x="8" y="6" width="16" height="16"/>
-    <text x="30" y="19"
-          fill="#ffffff"
-          font-size="12"
-          font-weight="700"
-          font-family="Arial, Helvetica, sans-serif">
+    <image
+      href="https://raw.githubusercontent.com/miro-oss/miro-oss/main/free-icon-adobe-photoshop-121140.png"
+      x="8"
+      y="6"
+      width="16"
+      height="16"
+    />
+    <text
+      x="30"
+      y="19"
+      fill="#ffffff"
+      font-size="12"
+      font-weight="700"
+      font-family="Arial, Helvetica, sans-serif"
+    >
       Photoshop
     </text>
   </svg>
