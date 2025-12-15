@@ -6,7 +6,7 @@
   ✦ 이시은입니다 ✦
 </p>
 
-<p>
+<p align="center">
   <a href="mailto:tldms822@naver.com">
     <img src="https://img.shields.io/badge/EMAIL-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -35,7 +35,7 @@
 
 ### Design
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PS-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
 </p>
 
 ### Backend
