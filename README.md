@@ -1,11 +1,4 @@
-<h1 align="center">
-  😈 Hi, I'm Sieun Lee
-</h1>
 
-<p align="center">
-  <b>주저하지 않고 도전하는 개발자</b><br/>
-  Spring 기반 백엔드 · 풀스택 지향
-</p>
 
 <p align="center">
   <a href="mailto:tldms822@naver.com">
@@ -24,9 +17,6 @@
 - 🧠 **기술로 아이디어를 구현하는 과정**에서 가장 큰 즐거움을 느낍니다
 - 🌱 Spring 기반 **백엔드 중심**, 풀스택 개발자로 성장 중
 - ⚙️ API 설계 · DB 구조 · 협업 흐름을 중요하게 생각합니다
-
-> *“Pretty but dangerous.  
-> Cute UI, solid logic.”* 😈
 
 ---
 
@@ -69,9 +59,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miro-oss&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
----
 
-## 💬 One Line
-
-> **코드는 예쁘게, 구조는 단단하게.**  
-> **힙하지만 실력 있는 개발자 😈**
