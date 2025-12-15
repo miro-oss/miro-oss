@@ -1,77 +1,77 @@
-<div align="center">
+<h1 align="center">
+  😈 Hi, I'm Sieun Lee
+</h1>
 
-  <img src="https://i.pinimg.com/originals/c3/86/52/c3865227f67756778b056157dc380104.gif" width="100%" style="border-radius: 10px; opacity: 0.8;" />
+<p align="center">
+  <b>주저하지 않고 도전하는 개발자</b><br/>
+  Spring 기반 백엔드 · 풀스택 지향
+</p>
 
-  <br/><br/>
-
-  <h1 style="font-family: 'Courier New', monospace;">
-    🩸 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕸𝖞 𝕯𝖆𝖗𝖐𝖓𝖊𝖘𝖘 🩸
-  </h1>
-
-  <p style="font-size: 1.2rem; font-weight: bold;">
-    Code like a <span style="color: #ff0000;">Devil</span>, Debug like an <span style="color: #ff0000;">Angel</span>.
-  </p>
-  
+<p align="center">
   <a href="mailto:tldms822@naver.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=naver&logoColor=red&labelColor=101010" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23ff005c?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://faint-relative-c3a.notion.site/Portfolio-2c92789f4f5881e4a5e8f9b58e143dcf?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010" alt="Portfolio" />
+  <a href="https://github.com/miro-oss">
+    <img src="https://img.shields.io/badge/GitHub-%23000000?style=flat-square&logo=github&logoColor=white"/>
   </a>
+</p>
 
-</div>
+---
 
-<br/>
+## 🖤 About Me
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+- 🔥 **한 번 시작하면 끝까지 완성하는 개발자**
+- 🧠 **기술로 아이디어를 구현하는 과정**에서 가장 큰 즐거움을 느낍니다
+- 🌱 Spring 기반 **백엔드 중심**, 풀스택 개발자로 성장 중
+- ⚙️ API 설계 · DB 구조 · 협업 흐름을 중요하게 생각합니다
 
-<br/>
+> *“Pretty but dangerous.  
+> Cute UI, solid logic.”* 😈
 
-### 💀 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=red" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=red" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red" />
-  <br/><br/>
+---
 
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=red" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=red" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=red" />
-  <br/><br/>
+## 🧪 Tech Stack
 
-  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=red" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=red" />
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=red" />
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=red" />
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
-</div>
+### 🧩 Backend / Framework
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
-<br/>
+### 🎨 Frontend & Design
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Photoshop-%23001e36?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+</p>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+### 🤝 Collaboration
+<p>
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion"/>
+  <img src="https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=white"/>
+</p>
 
-<br/>
+---
 
-### 🕸️ 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=본인_아이디&show_icons=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인_아이디&layout=compact&bg_color=0d1117&title_color=ff0000&text_color=ffffff&hide_border=true" height="180px" />
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miro-oss&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miro-oss&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=본인_아이디&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&hide_border=true" width="100%"/>
-</div>
+## 💬 One Line
+
+> **코드는 예쁘게, 구조는 단단하게.**  
+> **힙하지만 실력 있는 개발자 😈**
