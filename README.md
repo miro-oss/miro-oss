@@ -32,7 +32,10 @@
 
 ### Design
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=red&t=1"/>
+  <img src="https://github.com/user-attachments/assets/290c4c69-a06a-4af7-a03b-4912a7eb051b"
+       alt="Photoshop"
+       height="28"
+       style="vertical-align: middle;" />
 </p>
 
 ### Backend
