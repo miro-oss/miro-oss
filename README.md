@@ -1,30 +1,15 @@
-<div align="center" style="
-  background: linear-gradient(135deg, #1f1f1f, #3a0f2e);
-  padding: 42px 20px;
-  border-radius: 14px;
-  color: #ffffff;
-">
-
-  <h1 style="margin-bottom: 8px;">
-    miro's GitHub
-  </h1>
-
-  <p style="font-size: 16px; margin-top: 0;">
-    ✦ 이시은입니다 ✦
-  </p>
-
-  <p style="margin-top: 18px;">
-    <a href="mailto:tldms822@naver.com" style="color:#ff6f91; text-decoration:none;">
-      tldms822@naver.com
-    </a>
-  </p>
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3a0f2e&height=180&section=header&text=miro's%20GitHub&fontSize=36&fontColor=ffffff"/>
+</p>
 
 <p align="center">
-  backend · full-stack oriented
+  ✦ 이시은입니다 ✦
+</p>
+
+<p align="center">
+  <a href="mailto:tldms822@naver.com">
+    <img src="https://img.shields.io/badge/Email-tldms822@naver.com-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
