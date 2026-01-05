@@ -5,6 +5,7 @@
 <p align="center">
   <a href="mailto:tldms822@naver.com"><img src="https://img.shields.io/badge/EMAIL-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/miroL822/">LinkedIn</a>
   <a href="https://faint-relative-c3a.notion.site/Portfolio-2c92789f4f5881e4a5e8f9b58e143dcf?source=copy_link"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
