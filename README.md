@@ -55,5 +55,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miro-oss&area=true&hide_border=true&bg_color=0d1117&color=ff4d8d&line=ff4d8d&point=ffffff&area_color=ff4d8d" width="900"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miro-oss&bg_color=282a36&color=ff79c6&line=ff79c6&point=ffffff&area=true&area_color=bd93f9&hide_border=true" width="900"/>
 </p>
