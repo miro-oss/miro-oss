@@ -54,6 +54,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miro-oss&bg_color=282a36&color=ff79c6&line=ff79c6&point=ffffff&area=true&area_color=bd93f9&hide_border=true" width="900"/>
-</p>
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miro-oss&theme=dracula" width="100%"/>
+</div>
+
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miro-oss&theme=dracula" width="49.5%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miro-oss&theme=dracula" width="49.5%"/>
+</div>
