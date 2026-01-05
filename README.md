@@ -55,7 +55,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miro-oss&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miro-oss&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miro-oss&area=true&hide_border=true&bg_color=0d1117&color=ff4d8d&line=ff4d8d&point=ffffff&area_color=ff4d8d" width="900"/>
 </p>
 
