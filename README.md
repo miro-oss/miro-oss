@@ -3,9 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tldms822@naver.com"><img src="https://img.shields.io/badge/EMAIL-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BIE%2B5JninRF6LszF9KuGOOg%3D%3D">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://faint-relative-c3a.notion.site/Portfolio-2c92789f4f5881e4a5e8f9b58e143dcf?source=copy_link"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="mailto:tldms822@naver.com">
+    <img src="https://img.shields.io/badge/EMAIL-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://faint-relative-c3a.notion.site/Portfolio-2c92789f4f5881e4a5e8f9b58e143dcf?source=copy_link">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
 </p>
 
 
