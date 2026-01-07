@@ -25,9 +25,9 @@
   <img src="https://img.shields.io/badge/React-ff4d8d?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
-### Design
+### DB
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Backend
@@ -35,9 +35,9 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-ff4d8d?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
-### DB
+### Design
 <p>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge"/>
 </p>
 
 ### Tools
