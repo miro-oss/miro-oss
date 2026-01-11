@@ -49,15 +49,4 @@
   <img src="https://img.shields.io/badge/Discord-ff4d8d?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miro-oss&theme=dracula" width="85%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miro-oss&theme=dracula" width="42%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miro-oss&theme=dracula" width="42%"/>
-</p>
