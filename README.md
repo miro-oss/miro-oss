@@ -32,14 +32,14 @@
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-ff4d8d?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-ff4d8d?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### DB
 <p>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-ff4d8d?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-ff4d8d?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### Design
@@ -58,11 +58,11 @@
 
 ### Tools
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-ff4d8d?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-ff4d8d?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-ff4d8d?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-ff4d8d?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-ff4d8d?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
