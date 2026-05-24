@@ -34,6 +34,7 @@
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-ff4d8d?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
 ### DB
@@ -50,6 +51,8 @@
 
 ### Infra & DevOps
 <p>
+  <img src="https://img.shields.io/badge/Redis-ff4d8d?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-ff4d8d?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-ff4d8d?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20EC2-ff4d8d?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-ff4d8d?style=for-the-badge&logo=nginx&logoColor=white"/>
