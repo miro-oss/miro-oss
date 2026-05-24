@@ -1,14 +1,15 @@
-<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff4d8d&height=180&section=header&text=miro's%20GitHub&fontSize=36&fontColor=ffffff"/>
 </p>
 
 <p align="center">
   <a href="mailto:tldms822@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ff4d8d?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/miroL822/"><img src="https://img.shields.io/badge/🔗%20LINKEDIN-000000?style=for-the-badge"/></a>&nbsp;&nbsp;
-<a href="https://faint-relative-c3a.notion.site/Portfolio-2c92789f4f5881e4a5e8f9b58e143dcf?source=copy_link"><img src="https://img.shields.io/badge/PORTFOLIO-ff4d8d?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/miroL822/"><img src="https://img.shields.io/badge/🔗%20LINKEDIN-000000?style=for-the-badge"/></a>&nbsp;&nbsp;
+  <a href="https://faint-relative-c3a.notion.site/Portfolio-2c92789f4f5881e4a5e8f9b58e143dcf?source=copy_link"><img src="https://img.shields.io/badge/PORTFOLIO-ff4d8d?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
 ---
+
 ## ✨ Tech Stack ✨
 
 ### Languages
@@ -19,7 +20,6 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
-
 </p>
 
 ### Frontend
@@ -30,19 +30,30 @@
   <img src="https://img.shields.io/badge/React-ff4d8d?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
-### DB
-<p>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-ff4d8d?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-ff4d8d?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### DB
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### Design
 <p>
   <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+### Infra & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-ff4d8d?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-ff4d8d?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-ff4d8d?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-ff4d8d?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ### Tools
@@ -55,9 +66,14 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats
+
 <p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miro-oss&theme=dracula" width="85%"/></p><p align="center">  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miro-oss&theme=dracula" width="42%"/>  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miro-oss&theme=dracula" width="42%"/>
-  </p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miro-oss&theme=dracula" width="85%"/>
+</p>
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miro-oss&theme=dracula" width="42%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miro-oss&theme=dracula" width="42%"/>
+</p>
