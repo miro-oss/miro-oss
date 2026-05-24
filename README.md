@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Docker-ff4d8d?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20EC2-ff4d8d?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-ff4d8d?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-ff4d8d?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-ff4d8d?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
