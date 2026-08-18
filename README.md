@@ -34,6 +34,7 @@
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=google&logoColor=white"/></p>
 
