@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/MySQL-ff4d8d?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-ff4d8d?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-ff4d8d?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-ff4d8d?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ### Design
@@ -52,7 +53,6 @@
 
 ### Infra & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Redis-ff4d8d?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-ff4d8d?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-ff4d8d?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20EC2-ff4d8d?style=for-the-badge&logo=amazonec2&logoColor=white"/>
