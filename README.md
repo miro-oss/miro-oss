@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/CSS3-ff4d8d?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-ff4d8d?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-ff4d8d?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-ff4d8d?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 </p>
 
 ### Backend
